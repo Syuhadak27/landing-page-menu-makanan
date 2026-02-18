@@ -1,0 +1,188 @@
+{
+  "makanan": [
+    {
+      "nama": "Nasi Goreng Spesial",
+      "harga": 25000
+    },
+    {
+      "nama": "Ayam Bakar Madu",
+      "harga": 30000
+    },
+    {
+      "nama": "Soto Ayam Lamongan",
+      "harga": 20000
+    },
+    {
+      "nama": "Gado-Gado Surabaya",
+      "harga": 18000
+    },
+    {
+      "nama": "Rawon Daging",
+      "harga": 28000
+    },
+    {
+      "nama": "Lontong Balap",
+      "harga": 22000
+    },
+    {
+      "nama": "Rujak Cingur",
+      "harga": 15000
+    },
+    {
+      "nama": "Nasi Krawu",
+      "harga": 25000
+    },
+    {
+      "nama": "Sate Klopo",
+      "harga": 30000
+    },
+    {
+      "nama": "Tahu Tek",
+      "harga": 18000
+    },
+    {
+      "nama": "Nasi Pecel",
+      "harga": 20000
+    },
+    {
+      "nama": "Gulai Kambing",
+      "harga": 35000
+    },
+    {
+      "nama": "Mie Ayam Jamur",
+      "harga": 22000
+    },
+    {
+      "nama": "Bakso Malang",
+      "harga": 25000
+    },
+    {
+      "nama": "Sop Buntut",
+      "harga": 40000
+    }
+  ],
+  "minuman": [
+    {
+      "nama": "Es Teh Manis",
+      "harga": 5000
+    },
+    {
+      "nama": "Jus Jeruk Segar",
+      "harga": 10000
+    },
+    {
+      "nama": "Kopi Hitam",
+      "harga": 8000
+    },
+    {
+      "nama": "Milkshake Coklat",
+      "harga": 15000
+    },
+    {
+      "nama": "Es Campur",
+      "harga": 12000
+    },
+    {
+      "nama": "Wedang Ronde",
+      "harga": 10000
+    },
+    {
+      "nama": "Es Dawet",
+      "harga": 8000
+    },
+    {
+      "nama": "Jus Alpukat",
+      "harga": 12000
+    },
+    {
+      "nama": "Soda Gembira",
+      "harga": 10000
+    },
+    {
+      "nama": "Teh Tarik",
+      "harga": 7000
+    },
+    {
+      "nama": "Es Kelapa Muda",
+      "harga": 15000
+    },
+    {
+      "nama": "Cappuccino Panas",
+      "harga": 18000
+    },
+    {
+      "nama": "Smoothie Stroberi",
+      "harga": 14000
+    },
+    {
+      "nama": "Air Mineral",
+      "harga": 4000
+    },
+    {
+      "nama": "Es Buah Segar",
+      "harga": 13000
+    }
+  ],
+  "cemilan": [
+    {
+      "nama": "Pisang Goreng",
+      "harga": 10000
+    },
+    {
+      "nama": "Keripik Singkong",
+      "harga": 8000
+    },
+    {
+      "nama": "Tahu Isi",
+      "harga": 12000
+    },
+    {
+      "nama": "Cireng",
+      "harga": 7000
+    },
+    {
+      "nama": "Batagor",
+      "harga": 15000
+    },
+    {
+      "nama": "Siomay Bandung",
+      "harga": 18000
+    },
+    {
+      "nama": "Tempe Mendoan",
+      "harga": 10000
+    },
+    {
+      "nama": "Martabak Mini",
+      "harga": 12000
+    },
+    {
+      "nama": "Lumpia Semarang",
+      "harga": 15000
+    },
+    {
+      "nama": "Risol Mayo",
+      "harga": 8000
+    },
+    {
+      "nama": "Kue Cubit",
+      "harga": 10000
+    },
+    {
+      "nama": "Pempek Palembang",
+      "harga": 20000
+    },
+    {
+      "nama": "Kerupuk Udang",
+      "harga": 5000
+    },
+    {
+      "nama": "Bakwan Jagung",
+      "harga": 10000
+    },
+    {
+      "nama": "Onde-Onde",
+      "harga": 8000
+    }
+  ]
+}
